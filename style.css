@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(177, 169, 169);
+    align-items: center;
+    text-align: center;
+    margin: 3px;
+}
+.header{
+    border: 5px;
+    border-color: black;
+}
+.button {
+    padding: 3px;
+    padding-left:7px ;
+    padding-right: 7px;
+    align-items: center;
+    align-content: center;
+    background-color: #fff;
+    border-radius: 25px;
+}.button:hover{
+    background-color: gold;
+}
+
+
+img{
+    margin-top: 1rem;
+    border-radius: 10px;
+}
+marquee{
+    transition-duration: 1ms;
+   
+.love{
+    background-color: #fff;
+}
+.love:hover{
+    background-color: #ddd;
+}
